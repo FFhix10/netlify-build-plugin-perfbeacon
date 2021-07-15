@@ -20,6 +20,6 @@
     "node-fetch": "^2.6.0"
   },
   "devDependencies": {
-    "snyk": "^1.361.3"
+    "snyk": "^1.518.0"
   }
 }
